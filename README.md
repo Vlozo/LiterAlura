@@ -4,6 +4,7 @@ Esse programa foi desenvolvido para o Desafio do Curso de Java da Alura como par
 em um banco de dados permitindo a consulta sobre algumas informações como livros registrados de um determinado autor, livros registrados em um determinado idioma, estatísticas
 sobre livros e registrados e mais.
 
+![Badge-Literalura](https://github.com/Vlozo/LiterAlura/blob/master/badge%20literalura.png)
 ## Tecnologias utilizadas
   - Java 17
   - Spring Framework
@@ -18,12 +19,11 @@ sobre livros e registrados e mais.
 2. Certifique-se de ter o Maven instalado. 
 
 3. Clone este repositório
-   
-  ```bash
-  git clone https://github.com/Vlozo/LiterAlura
-  ```
+   ```Bash
+   git clone https://github.com/Vlozo/LiterAlura
+   ```
 
-4. Configure o Banco de dados PostgreSQL
+5. Configure o Banco de dados PostgreSQL
    
    - Crie um banco de dados chamado `literalura_db`.
    - Atualize as credenciais do banco de dados no arquivo `src/main/resources/aplication.properties`
